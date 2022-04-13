@@ -1,2 +1,2 @@
 # zio-kafka-scala
-Pure Functional Kafka producer and Kafa Consumer 
+Pure Functional Kafka Producer and Kafa Consumer 
